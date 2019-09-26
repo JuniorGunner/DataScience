@@ -1,3 +1,5 @@
 # DataScienceNotebooks   
 
-Repository for DataScience Notebooks created during course.
+Repository for Data Science Notebooks created during course on Google Colab.
+
+Following courses from Kaggle and Alura.
