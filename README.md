@@ -1,5 +1,9 @@
-# Data Science Notebooks   
+# Data Science Formation
 
-Repository for Data Science Notebooks created during course using Google Colaboratory.
+Repository for Alura Course series for Data Science formation.   
 
-Following courses from Kaggle and Alura.
+Tools:   
+   
+* [Alura](alura.com.br);   
+* [Kaggle](kaggle.com);   
+* [Google Colaboratory](colab.research.google.com);   
