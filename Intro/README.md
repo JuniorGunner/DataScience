@@ -1,1 +1,1 @@
-# Introduction to Data Science Course - Notebooks
+# Introduction to Data Science
